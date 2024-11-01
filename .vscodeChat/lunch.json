@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ChatServer",
+            "request": "launch",
+            "mainClass": "ChatServer",
+            "cwd": "${workspaceFolder}/src"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChatClient",
+            "request": "launch",
+            "mainClass": "ChatClient",
+            "cwd": "${workspaceFolder}/src"
+        }
+    ]
+}

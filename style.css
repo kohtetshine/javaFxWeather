@@ -1,0 +1,16 @@
+.root {
+    -fx-background-color: #f0f8ff;
+    /* Light background */
+}
+
+.button {
+    -fx-background-color: #1e90ff;
+    /* Dodger blue */
+    -fx-text-fill: white;
+}
+
+.label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #333333;
+    /* Dark text */
+}
